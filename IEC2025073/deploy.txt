@@ -1,0 +1,6 @@
+Contract Address: 0x428D6126609F2505f3b1A8004c4b6F6b5461B061
+Deployment Tx Hash: 0x6491f45fdd7a59a592902561464d2443d3fad4abced191345c983edd49cf22ec
+Compiler Version: 0.8.34
+Constructor Args (if any): None
+https://github.com/jenischaudhary01/single-cycle-mips-processor
+   https://github.com/jenischaudhary01/Mini-Twitter
